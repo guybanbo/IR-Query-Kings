@@ -1,2 +1,2 @@
-site link: https://guybanbo.github.io/IR-Query-Kings/site/
+site link: https://guybanbo.github.io/IR-Query-Kings/SITE/
 
